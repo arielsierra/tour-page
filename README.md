@@ -1,0 +1,1 @@
+This is a tour website to learn the concepts of CSS float layout and SCSS.
